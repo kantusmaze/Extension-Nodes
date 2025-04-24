@@ -4,26 +4,19 @@
 * Or you can buy a cheap server for $5/m from [Hostbrr](https://my.hostbrr.com/order/forms/a/NTMxNw==). Options include: **Valentine Deals** or **AMD Ryzen 9 9950X Powered Virtual Private Server** -- Note that you can install Windows on these servers
 
 # Nodes you can run
-* [Dawn](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#dawn)
-* [OpenLedger](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#openledger)
-* [Bless Network](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#bless-network-formerly-blockless)
-* [Gradient](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#gradient)
-* [Stork Oracle Verifier](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#stork-oracle-verifier)
-* [Naoris Protocol](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#naoris-protocol)
-* [Minion Labs](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#minion-labs)
-* [Voltix CPU Worker](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#voltix-cpu-worker)
-* [Blockmesh](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#blockmesh)
-* [3DOS](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#3dos)
-* [MyGate Network](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#mygate)
-* [DeSpeed Validator](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#despeed-validator)
-* [Teneo social miner](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#teneo)
-* [Nodepay](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#nodepay)
-* [Grass Season 2](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#grass-season-ii)
-* [Functor Network](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#functor-network)
-* [OpenlayerAI](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#openlayer-ai-network)
-* [Pipe Network (Ended)](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#pipe-network)
-* [Sepolia PoW Faucet](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#sepolia-pow-faucet)
-* [Holesky PoW Faucet](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#holesky-pow-faucet)
+* [Dawn](https://github.com/kantusmaze/Extension-Nodes/blob/main/README.md#dawn)
+* [OpenLedger](https://github.com/kantusmaze/Extension-Nodes/blob/main/README.md#openledger)
+* [Bless Network](https://github.com/kantusmaze/Extension-Nodes/blob/main/README.md#bless-network-formerly-blockless)
+* [Gradient](https://github.com/kantusmaze/Extension-Nodes/blob/main/README.md#gradient)
+* [Minion Labs](https://github.com/kantusmaze/Extension-Nodes/blob/main/README.md#minion-labs)
+* [3DOS](https://github.com/kantusmaze/Extension-Nodes/blob/main/README.md#3dos)
+* [DeSpeed Validator](https://github.com/kantusmaze/Extension-Nodes/blob/main/README.md#despeed-validator)
+* [Teneo social miner](https://github.com/kantusmaze/Extension-Nodes/blob/main/README.md#teneo)
+* [Nodepay](https://github.com/kantusmaze/Extension-Nodes/blob/main/README.md#nodepay)
+* [Grass Season 2](https://github.com/kantusmaze/Extension-Nodes/blob/main/README.md#grass-season-ii)
+* [Functor Network](https://github.com/kantusmaze/Extension-Nodes/blob/main/README.md#functor-network)
+* [Sepolia PoW Faucet](https://github.com/kantusmaze/Extension-Nodes/blob/main/README.md#sepolia-pow-faucet)
+* [Holesky PoW Faucet](https://github.com/kantusmaze/Extension-Nodes/blob/main/README.md#holesky-pow-faucet)
 
 #
 
@@ -38,7 +31,7 @@
 * Raised $18M
 * Install [Extension](https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp)
 * Create account with Email and verify your Email
-* Invite Code: `0dhx2k`
+* Invite Code: `wgprqq65`
 
 #
 
@@ -47,96 +40,57 @@
 * Phase 1 Testnet Orchastrator is Exstension Node
 * Create account [here](https://app.gradient.network/)
 * Install [Extension](https://chromewebstore.google.com/detail/gradient-sentry-node/caacbgbklghmpodbdafajbgdnegacfmo)
-* Incompatible VPS IPs, Use [Proxy](https://github.com/0xmoei/Install-Chromium-Linux-Browser/blob/main/README.md#install-proxy-on-chromium).
+* Incompatible VPS IPs, Use [Proxy](https://github.com/kantusmaze/Install-Chromium-Linux-Browser/blob/main/README.md#install-proxy-on-chromium).
 
 #
 
 ### Bless Network (Formerly Blockless)
 * Raised $8M M31 Capital, $BLS is announced
-* Signup the [Dashboard](https://bless.network/dashboard?ref=JGTHFQ)
+* Signup the [Dashboard](https://bless.network/dashboard?ref=CO9VTT)
 * Install [Extension](https://chromewebstore.google.com/detail/bless/pljbjcehnhcnofmkdbjolghdcjnmekia)
 * Login to your account inside the extension to activate your node
 
 #
 
-### Stork Oracle Verifier
-* Raised $4M
-* Install [Extension](https://chromewebstore.google.com/detail/stork-verify/knnliglhgkmlblppdejchidfihjnockl)
-* Open Extension, Signup with your email and use invite code: `SFGALXM92N`
-
-#
-
-### Naoris Protocol
-* $11.5M fundraising 
-* Install [Wallet Extension](https://chromewebstore.google.com/detail/naoris-protocol-wallet/dbgibbbeebmbmmhmebogidfbfehejgfo?hl=en-GB&authuser=0)
-* Enter Code: `BGNWD1HYA5q2VED5`
-* Visit [Testnet Dashboard](https://naorisprotocol.network/testnet#how-it-works).
-* Click "Start Testnet", Login with your Naoris-Wallet, Install Naoris-Node Extension, Connect X and complete the task.
-* Open Naoris Node extension, Click on "Turn On Protection", Click on "Testnet Dashboard".
-* Now, you can see your points earning in "Earnings" tab.
-
-#
-
 ### Minion Labs
 * Raised $2M in pre-seed from JSquare
-* Register [Dashboard](https://app.minionlab.ai/?referralCode=yHqwjUSo)
+* Register [Dashboard](https://app.minionlab.ai/?referralCode=TonZTrgJ)
 * Download [Extension](https://www.minionlab.ai/download)
 
 
 #
 
-### Voltix CPU worker
-* Register [Dashboard](https://voltix.ai/login?ref=OWS83)
-* Install [Extension](https://chromewebstore.google.com/detail/voltix-built-for-ai-speci/dhffhdepkkepbcienheompkncklalogf?authuser=0&hl=en)
-* Choose the "Number of workers" and "Model Training" -- The more workers, the more CPU usage
-
-#
-
 ### Teneo
 * Install [Extension](https://chromewebstore.google.com/detail/teneo-community-node/emcclcoaglgcpoognfiggmhnhgabppkm?authuser=0&hl=en)
-* Use invite code to get boost: `GDhJF`
-
-#
-
-### Blockmesh
-* Data Network in EclipseFND ecosystem
-* Create account [here](https://app.blockmesh.xyz/register?invite_code=e0af8150-f715-4b0c-b19b-de6c07b8f413)
-* Install [Extension](https://chromewebstore.google.com/detail/blockmesh-network/obfhoiefijlolgdmphcekifedagnkfjp)
-* Incompatible VPS IPs, Use [Proxy](https://github.com/0xmoei/Install-Chromium-Linux-Browser/blob/main/README.md#install-proxy-on-chromium).
+* Use invite code to get boost: `Lt4Hz`
 
 #
 
 ### 3DOS
-* Register [Dashboard](https://dashboard.3dos.io/register?ref_code=88c840)
+* Register [Dashboard](https://dashboard.3dos.io/register?ref_code=486fe6)
 * Download [Extension](https://chromewebstore.google.com/detail/3dos-network/lpindahibbkakkdjifonckbhopdoaooe)
 
 
 #
 
-### Mygate
-* Register [dashboard](https://app.mygate.network/login?code=MgaZin)
-* Install [Extension](https://chromewebstore.google.com/detail/mygate-network-node/hajiimgolngmlbglaoheacnejbnnmoco?hl=en&pli=1)
-
-#
-
 ### DeSpeed Validator
 * Register [here
-](https://app.despeed.net/register?ref=lyZh8xOzItge)
-* Install [Extension](https://chromewebstore.google.com/detail/despeed-validator/ofpfdpleloiaaedjbfpocglfggbdpiem)
+](https://app.despeed.net/register?ref=KFNKJOPMyQCN)
+* Install [Extension](https://chromewebstore.google.com/detail/despeed-validator/ofpfdpleloialedjbfpocglfggbdpiem)
 * Make sure you complete Quests in the dashboard
 
 #
 
 ### Nodepay
 * Backed by Animoca
-* Create account [here](https://app.nodepay.ai/register?ref=eBGza9jaED3TeLV)
+* Create account [here](https://app.nodepay.ai/register?ref=NWV1U2Tzo4ys3bY)
 * Install [Extension](https://chromewebstore.google.com/detail/nodepay-extension/lgmpfmgeabnnlemejacfljbmonaomfmm)
 
 #
 
 ### Grass Season II
 * They distributed a good airdrop in season 1, so I keep running for season 2
-* Sign up [here](https://app.getgrass.io/register?referralCode=qFJ68N1i9CVz3GR)
+* Sign up [here](https://app.getgrass.io/register?referralCode=8cjHdzctP9Y4ebW)
 * Install [Grass Extension
 ](https://chromewebstore.google.com/detail/grass-lite-node/ilehaonighjijnmpnagapkhpcdbhclfg?hl=en&authuser=0)
 
@@ -144,25 +98,9 @@
 
 ### Functor Network
 * $FUNC airdrop confirmed
-* Create account and Install Extension [here](https://node.securitylabs.xyz/?from=extension&type=signin&referralCode=cm1i9yz06es6aqi1bqs0mjsk4)
-* It needs a code to join: `cm1i9yz06es6aqi1bqs0mjsk4`
+* Create account and Install Extension [here](https://node.securitylabs.xyz/?from=extension&type=signin&referralCode=cm9iak1xnsu0nqw1bacwt1maz)
+* It needs a code to join: `cm9iak1xnsu0nqw1bacwt1maz`
 * There is a daily Check-in
-
-#
-
-### Openlayer AI Network
-* Backed by a16z
-* Install Node Extension [here](https://openlayer.tech)
-* Invite codes: `BUYR2X` `47OLOU` `FFWLAH`
-* After Installing Extension, Connect twitter to get your ref code & new tasks
-* You can get invite codes in [Discord](https://discord.gg/openlayer)
-
-#
-
-### Pipe Network (Ended)
-* Raised $10M led by Multicoincap with good names behind it
-* Signup once then Loging using the same credentials [here](https://pipecdn.app/signup?ref=c2xhcmsuY3)
-* Install [Extension](https://chromewebstore.google.com/detail/pipe-guardian-node/gelgmmdfajpefjbiaedgjkpekijhkgbe)
 
 #
 
